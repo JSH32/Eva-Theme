@@ -23,7 +23,7 @@
         "button.hoverBackground": "#598DEFE6",
         "debugConsole.errorForeground": "#e51400",
         "debugConsole.infoForeground": "#598DEF",
-        "debugConsole.warningForeground": "#F5625C",
+        "debugConsole.warningForeground": "#f5b05c",
         "debugExceptionWidget.background": "#a3151533",
         "debugExceptionWidget.border": "#a31515",
         "debugToolBar.background": "#21252B",
